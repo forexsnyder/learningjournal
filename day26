@@ -1,0 +1,23 @@
+# What went well, that I might forget if I don’t write down?
+
+Configuring Splunk is a perishable skill.  There are a lot of tools it has at it's disposal and I think
+
+if I do not work with it reguarly I would forget how to add a new file.  How to search for specific output, etc.
+
+# What did I learn today?  
+
+I leanred how to configure Splunk and how to implement logging in Python.  Splunk offers a way to sort
+
+through large amounts of data and group
+
+events together.  Python logging allows me to save logging to another file.  
+
+# What should I do differently next time?
+
+Take more notes.
+
+What still puzzles me, or what do I need to learn more about?
+
+Still a little fuzzy on Python messages, I can have it log a preprogrammed message.  I would like to know what tags have it
+
+log the native error messages.

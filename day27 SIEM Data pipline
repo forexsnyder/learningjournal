@@ -1,0 +1,22 @@
+SIEM Data pipeline
+
+1. Data input
+  Metadata
+2. Data Storage
+  parsing
+  indexing
+3. Data sorting
+  Access
+  Usage
+  Views
+  
+  Splunk Components
+  Forwarder (Server2019)
+    Universal
+    Heavy
+  Indexer (Splunk)
+    Parsing
+    Index for efficient searching
+  Head (Browser)
+    search head
+    Search peer

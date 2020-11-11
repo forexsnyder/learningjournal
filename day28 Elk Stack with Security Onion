@@ -16,3 +16,10 @@ Elastic: SIEM solution
   Kibanah
  
 Most useful if building a SOC from scratch.
+
+Blackscreen fix and launch GUI:
+Control + Alt + F2 (brings up terminal)
+
+logging in admin/admin
+
+once logged in "startx"

@@ -1,0 +1,18 @@
+Security Onion 2.3 tools:
+
+Suricata  - IDS/IPS
+Stenographer - Packet capture and analysis
+Zeek - Threat intelligence and hunting
+Filebeat- forwarders
+Logstash - Parsing and storage of logs
+Elasticsearch - API JSON DB
+Elastalert - generating alerts
+Kibanah - Dashboard
+Wazuh - HIDS
+
+Elastic: SIEM solution
+  Logstash
+  Elasticsearch
+  Kibanah
+ 
+Most useful if building a SOC from scratch.

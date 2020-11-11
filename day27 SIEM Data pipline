@@ -1,3 +1,26 @@
+What went well, that I might forget if I don’t write down?
+
+Doing both the lab and the ops challenge were more straight forward than most todays.  I was able to get
+Splunk and Server2019 talking quickly.  I need to remember to use the custom configuration in the Windows
+installation rather than default settings.  Python has different logging levels.  Looks like systemd is
+different than just logging return values.  
+
+
+What should I do differently next time?
+
+Nothing much.  Today was straight forward.  I also like that I took notes on github during the lecture to help me
+remember what I learned today.
+
+What still puzzles me, or what do I need to learn more about?
+
+The next thing would be to take this to the cloud.  To integrate Splunk in with Snort and start
+
+creating real time alerts.
+
+
+What did I learn today?
+Notes from today's lecture
+
 SIEM Data pipeline
 
 1. Data input
